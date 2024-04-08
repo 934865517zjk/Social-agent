@@ -2,3 +2,4 @@
 
 [[demo video](https://github.com/934865517zjk/Social-agent/blob/main/demo_video.mp4)](https://github.com/934865517zjk/Social-agent/blob/main/demo_video.mp4)
 
+We will release the code and dataset as soon as possible.
